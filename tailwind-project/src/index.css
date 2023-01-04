@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Nunito+Sans:wght@300;400;600;700;800;900&display=swap");
+
+@layer base {
+  body {
+    @apply font-body;
+    @apply text-white;
+  }
+
+  h1,
+  h2 {
+    @apply text-6xl;
+    @apply font-title;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-7 py-2 border rounded-full capitalize hover:scale-110 transition-all duration-1000;
+  }
+  .btn-primary {
+    @apply bg-main text-black hover:opacity-90;
+  }
+  .btn-secondary {
+    @apply hover:animate-pulse;
+  }
+}
+
+.bg-image {
+  background: radial-gradient(
+      54.19% 54.19% at 50% 21%,
+      rgba(138, 12, 12, 0.2) 0%,
+      rgba(9, 8, 8, 0.184) 100%
+    ),
+    linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("./assets/cover.jpg");
+  @apply bg-center bg-cover bg-no-repeat;
+}
