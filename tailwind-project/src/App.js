@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div className="flex w-screen h-screen bg-image">
+    <div className="flex h-screen bg-image">
       <header className="flex justify-center absolute inset-x-0 p-6">
         <nav className="flex flex-col space-y-3 md:flex-row md:justify-between md:w-4/5">
           <div className="text-2xl">mendio</div>
