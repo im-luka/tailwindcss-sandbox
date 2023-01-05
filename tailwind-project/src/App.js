@@ -9,7 +9,7 @@ function App() {
             <li className="cursor-pointer hover:text-main">Features</li>
             <li className="cursor-pointer hover:text-main">Pricing</li>
             <li className="cursor-pointer hover:text-main">Blog</li>
-            <li className="cursor-pointer hover:text-main">Log In</li>
+            <li className="cursor-pointer hover:text-main">Sign In</li>
           </ul>
         </nav>
       </header>
