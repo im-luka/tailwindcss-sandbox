@@ -12,6 +12,6 @@ You can even set up your own Tailwind library just as you like it. Everything is
 
 > [See project](https://tailwindcss-sandbox.web.app/)
 
-> [Check out this awesome course created by Brad](https://www.udemy.com/course/tailwind-from-scratch/)
+> [Check out this great course created by Brad](https://www.udemy.com/course/tailwind-from-scratch/)
 
 ![tailwindcss-sandbox web app_ (3)](https://user-images.githubusercontent.com/46372998/210625414-c309d9ae-36eb-47ff-8811-f60cbccc4427.png)
