@@ -14,4 +14,12 @@ You can even set up your own Tailwind library just as you like it. Everything is
 
 > [Check out this great course created by Brad](https://www.udemy.com/course/tailwind-from-scratch/)
 
+<hr />
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<hr />
+
 ![tailwindcss-sandbox web app_ (3)](https://user-images.githubusercontent.com/46372998/210625414-c309d9ae-36eb-47ff-8811-f60cbccc4427.png)
