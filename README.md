@@ -21,6 +21,7 @@ You can even set up your own Tailwind library just as you like it. Everything is
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 ---
 
 ![tailwindcss-sandbox web app_ (3)](https://user-images.githubusercontent.com/46372998/210625414-c309d9ae-36eb-47ff-8811-f60cbccc4427.png)
