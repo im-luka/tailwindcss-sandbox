@@ -25,4 +25,3 @@ You can even set up your own Tailwind library just as you like it. Everything is
 ---
 
 ![tailwindcss-sandbox web app_ (3)](https://user-images.githubusercontent.com/46372998/210625414-c309d9ae-36eb-47ff-8811-f60cbccc4427.png)
-
